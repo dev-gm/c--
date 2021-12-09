@@ -1,11 +1,12 @@
-# c-project-template
-A template for a C project, with a minimal Makefile
+# c--
+A very small c compiler with an improved macro system 
 
 ## Build:
 ```
 name="<NAME>"
-git clone https://github.com/dev-gm/c-project-template.git
-mv c-project-template $name
+git clone https://github.com/dev-gm/c--.git
+mv c-- $name
 cd $name
 mkdir lib obj bin
+make
 ```
